@@ -98,7 +98,7 @@ main .card-info .body-content .title p:first-child {
 main .card-info .body-content .desc {
   color: var(--Desaturated);
   line-height: 1.6;
-  margin: 10px 0;
+  margin: 30px 0;
 }
 
 main .card-info .body-content form {
